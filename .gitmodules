@@ -1,0 +1,6 @@
+[submodule "fast-fast-food-app"]
+	path = fast-fast-food-app
+	url = https://github.com/DarwisNarvaezDev/fast-fast-food-app.git
+[submodule "fast-fast-api"]
+	path = fast-fast-api
+	url = https://github.com/DarwisNarvaezDev/fast-fast-api.git
